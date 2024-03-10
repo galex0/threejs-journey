@@ -41,7 +41,7 @@ const generateGalaxy = () => {
         material.dispose()
         scene.remove(points)
     }
-    
+
     /**
      * Geometry
      */
