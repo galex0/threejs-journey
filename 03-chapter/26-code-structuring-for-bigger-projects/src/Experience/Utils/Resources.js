@@ -8,7 +8,7 @@ export default class Resources extends EventEmitter
     {
         super()
 
-        // Options    
+        // Options     
         this.sources = sources
 
         // Setup 
